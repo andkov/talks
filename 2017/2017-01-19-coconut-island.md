@@ -12,8 +12,8 @@ author: Andrey Koval
 date:  Jan 19, 2017
 autosize: true
 
-[Hawai<U+02BB>i Institute of Marine Biology](http://www.himb.hawaii.edu/about-us/contact/)
-
+[Hawai<U+02BB>i Institute of Marine Biology](http://www.himb.hawaii.edu/about-us/contact/)  
+[Gates Coral Lab](http://gatescorallab.com/)   
 
 Context links
 =======================
